@@ -1,9 +1,7 @@
 ---
 title: Verna Luan (栾秋凝)
-role: Undergraduate
 avatar_filename: 925dfda1-83ed-4ff1-9a2f-8aac0b2d23fc.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: More knowledgeable, More tolerant.
 interests:
   - Pet，Music，Travel
 social:
@@ -23,6 +21,7 @@ email: qiuning.luan@outlook.com
 superuser: true
 status:
   icon: ☕️
+role: Undergraduate
 ---
 
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
