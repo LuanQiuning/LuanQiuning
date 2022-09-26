@@ -1,5 +1,5 @@
 ---
-title: Cosmetics Semantic Search
+title: Qianwei Yangchu Food Co., Ltd.
 subtitle: Laboratorian at Quality Control Division & Researcher at Technology
   and Research Division
 date: 2021-07-31T16:00:00.000Z
