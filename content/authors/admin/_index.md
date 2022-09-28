@@ -10,10 +10,10 @@ social:
     link: about/#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/Verna_Luan
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://instagram.com/qiuning.luan/?next=%2F
 organizations:
   - name: Macau University of Science and Technology
     url: https://www.must.edu.mo
