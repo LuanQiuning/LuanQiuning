@@ -24,18 +24,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
+    date_end: '2021-10-18'
+    date_start: '2021-04-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
+    title: CIFST- The 3rd “Three Squirrels Cup” Snack Food Innovation Competition 「The Third Prize」
+    url: 'http://www.3songshu.com/'
+  - certificate_url: ''
     date_end: ''
     date_start: '2021-01-01'
     description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
+    organization: China Council for Food Science and Technology and Three Squirrels Co.
     organization_url: https://www.edx.org
     title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
