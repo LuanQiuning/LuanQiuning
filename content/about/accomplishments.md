@@ -28,7 +28,7 @@ item:
     date_start: '2021-04-01'
     description: ''
     organization: China Council for Food Science and Technology and Three Squirrels Co.
-    organization_url: [https://www.cifst.org.cn/a/competition/2021/szss/jstz/](https://www.cifst.org.cn/a/competition/2021/szss/jstz/)
+    organization_url: ''
     title: CIFST- The 3rd “Three Squirrels Cup” Snack Food Innovation Competition
     url: 'http://www.3songshu.com/'
   - certificate_url: ''
