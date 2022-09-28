@@ -40,8 +40,8 @@ item:
     title: Academy Award of Advertising Festival of Chinese College Students
     url: ''
   - certificate_url: ''
-    date_end: '2021-03-01'
-    date_start: '2020-05-09'
+    date_end: '2021-05-09'
+    date_start: '2021-03-01'
     description: Advanced to the Top 10
     organization: The Federation of Alumni Associations of the Macau University of Science and Technology
     organization_url: ''
