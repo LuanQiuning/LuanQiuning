@@ -31,7 +31,7 @@ experience:
     date_end: '2023-08-31'
     description: |2-
         * Sinology Club
-        * Running club Macau
+        * Running Club Macau
 
 design:
   columns: '1'
