@@ -26,26 +26,26 @@ item:
   - certificate_url:  ''
     date_end: '2021-10-18'
     date_start: '2021-04-01'
-    description: ''
+    description: The Third Place
     organization: China Council for Food Science and Technology and Three Squirrels Co.
     organization_url: ''
     title: CIFST- The 3rd “Three Squirrels Cup” Snack Food Innovation Competition
-    url: 'http://www.3songshu.com/'
+    url: ''
   - certificate_url: ''
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: ''
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
+    date_end: '2022-03-01'
+    date_start: '2022-01-01'
+    description: Advanced to the Finalist
+    organization: China Advertising Association, China Student Advertising Arts Festival Academy Award Organizing Committee, Advertising People Culture Group (Tianjin) Co.
+    organization_url: ''
+    title: Academy Award of Advertising Festival of Chinese College Students
+    url: ''
+  - certificate_url: ''
     date_end: '2020-12-21'
     date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    description: Advanced to the Top 10
+    organization: The Federation of Alumni Associations of the Macau University of Science and Technology
+    organization_url: ''
+    title: 2021 Macao Youth Innovation and Entrepreneurship Competition
     url: ''
 
 design:
