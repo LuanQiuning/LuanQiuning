@@ -15,3 +15,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+The project was to build a historic culture hall named *Haojing'ao* where visitors could play games and choose gifts that were designed in the historical images of croupier, missionary, and Portuguese merchant.
