@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Intern
     company: Nutrition Department of Henan Provincial People’s Hospital
-    company_url: 'https://www.hnsrmyy.net/'
-    company_logo: org-X
+    company_url: ''
+    company_logo: org-gc
     location: Zhengzhou
     date_start: '2022-07-12'
     date_end: '2022-08-20'
@@ -37,8 +37,8 @@ experience:
 
   - title: Intern
     company: Qianwei Yangchu Food Co., Ltd.
-    company_url: 'http://www.qianweiyangchu.com/'
-    company_logo: org-X
+    company_url: ''
+    company_logo: org-x
     location: Zhengzhou
     date_start: '2021-06-20'
     date_end: '2021-07-30'
