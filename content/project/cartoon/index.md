@@ -1,8 +1,8 @@
 ---
-title: Nutrition Department of Henan Provincial People’s Hospital
-subtitle: Intern in Nutrition Department
+title: Henan Provincial People’s Hospital
+subtitle: ''
 date: 2022-08-19T16:00:00.000Z
-summary: ""
+summary: Intern of Nutrition Department
 tags: []
 categories:
   - Work experience
