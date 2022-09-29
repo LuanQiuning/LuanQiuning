@@ -28,7 +28,11 @@ content:
   filter_button:
     - name: Experience
       tag: '*'
-    
+    - name: Enterprise
+      tag: ML
+    - name: Hospital
+      tag: ML
+
 design:
   columns: '1'
   view: masonry
