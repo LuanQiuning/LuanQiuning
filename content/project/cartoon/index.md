@@ -11,4 +11,3 @@ image:
   filename: 省医.jpeg
   focal_point: 智能
 ---
-I am mainly responsible for clinical nutrition in the Cardiac Complex Ward, Cardiac Complex Ward 2, Endocrine Ward 3 and Endocrine Ward 4, as well as related work in hospital therapeutic diets.
