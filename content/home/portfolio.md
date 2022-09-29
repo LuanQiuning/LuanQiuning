@@ -29,9 +29,9 @@ content:
     - name: Experience
       tag: '*'
     - name: Enterprise
-      tag: ML
+      tag: Enterprise
     - name: Hospital
-      tag: ML
+      tag: Hospital
 
 design:
   columns: '1'
