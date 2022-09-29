@@ -21,7 +21,7 @@ email: qiuning.luan@outlook.com
 superuser: true
 status:
   icon: ''
-  role: More knowledgeable，more tolerant.
+  role: More knowledgeable, more tolerant.
 ---
 I am a student at the Faculty of Medicine of the Macau University of Science and Technology, majoring in Food and Nutritional Sciences. During my studies I have participated in several competitions with my classmates and won good places in various fields, such as business, advertising and food science.
 
