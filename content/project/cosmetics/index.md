@@ -1,8 +1,8 @@
 ---
 title: Qianwei Yangchu Food Co., Ltd.
-subtitle: Laboratorian at Quality Control Division & Researcher at Technology and Research Division
+subtitle: ''
 date: 2021-07-31T16:00:00.000Z
-summary: Intern
+summary: Laboratorian at Quality Control Division & Researcher at Technology and Research Division
 tags:
   - Work Experience
 external_link: http://www.qianweiyangchu.com
