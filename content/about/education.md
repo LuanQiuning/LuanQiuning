@@ -25,7 +25,6 @@ experience:
   - title: Food and Nutritional Science
     company: Macau University of Science and Technology
     company_url: ''
-    company_logo: org-x
     location: Macau
     date_start: '2019-09-01'
     date_end: '2023-08-31'
