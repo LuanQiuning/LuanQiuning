@@ -27,7 +27,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
     - name: Experience
-      tag: '*'
+      tag: 'Experience'
 
 design:
   columns: '1'
