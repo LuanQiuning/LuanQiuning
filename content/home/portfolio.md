@@ -28,11 +28,7 @@ content:
   filter_button:
     - name: Experience
       tag: '*'
-    - name: Enterprise
-      tag: Enterprise
-    - name: Hospital
-      tag: Hospital
-
+    
 design:
   columns: '1'
   view: masonry
