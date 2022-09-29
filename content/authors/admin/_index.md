@@ -1,6 +1,6 @@
 ---
 title: Verna Luan (栾秋凝)
-avatar_filename: 925dfda1-83ed-4ff1-9a2f-8aac0b2d23fc.jpeg
+avatar_filename: ''
 bio: ''
 interests:
   - Pet，Music，Travel
