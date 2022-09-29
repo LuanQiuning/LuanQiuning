@@ -26,9 +26,11 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: Hospital
+    - name: Experience
       tag: '*'
     - name: Enterprise
+      tag: ML
+    - name: Hospital
       tag: ML
 
 design:
